@@ -6,6 +6,3 @@
 ksc;ld;lcl
 smnsklsammx
 
-some content
-and here
--------------
